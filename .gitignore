@@ -1,0 +1,40 @@
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
+
+# Folders
+Biczyski - fermentacja - 5_01_2017
+Biczyski - fermentacja - 10_01_2017
+Przyklady prac
+Stare
+Schematy
+Obrazki
+Przebiegi
+
+# Others
+*.csv
+Cytowania.txt
+*.zip
+Hamowanie produktem.pdf
+inzynierka-do-druku.pdf
+logoPolsl.png
+Opinia projekt inz_2016_Biczyski.doc
+Projekty 2016 - mmetzger.pdf
+StronaTytulowa.doc
+StronaTytulowa.pdf
+Uwagi_05-01-2017.txt
+CFPIschematy2.pdf
